@@ -15,7 +15,7 @@ function App() {
       <Nav className="me-auto">
         <Nav.Link href="#about">About</Nav.Link>
         <Nav.Link href="#features">Features</Nav.Link>
-        <Nav.Link href="#contact">Contact</Nav.Link>
+        <Nav.Link href="#contact">Contacts</Nav.Link>
       </Nav>
     </Container>
   </Navbar>
